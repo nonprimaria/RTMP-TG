@@ -1,7 +1,7 @@
-from youtube_dl import YoutubeDL, extractor
+from import, extractor
 from _utils import *
 
-ytdl_ = YoutubeDL({
+_ = ({
     "format": "best",
     "geo-bypass": True,
     "nocheckcertificate": True,
