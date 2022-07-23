@@ -5,7 +5,7 @@ Play streams in your chats using this userbot !
 > **Python:** `python3`  
 > **FFmpeg:** `ffmpeg`  
 > **Pyrogram:** `pyrogram`  
-> **Youtube Dl :** `youtube_dl` - (optional)
+> ** :** `` - (optional)
 
 # How to run?
 ## Local
@@ -19,7 +19,7 @@ Play streams in your chats using this userbot !
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Warning : Heroku bans repo's with "youtube_dl" as requirement, So, make sure you remove the requirement and then deploy. (yes, the bot will still work but you won't get direct link support for youtube_dl supported sites :p)
+Warning : Heroku bans repo's with "" as requirement, So, make sure you remove the requirement and then deploy. (yes, the bot will still work but you won't get direct link support for supported sites :p)
 
 ### You need two build packs to get this userbot running 
 > FFMPEG -  https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest   
